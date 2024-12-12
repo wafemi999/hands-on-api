@@ -1,5 +1,5 @@
 # hands-on-api
-API project.
+API project WITH FANTASY SPORT DATA.
 1. PYTHON
 2. SQLITE
 3. SQLALCHEMY
